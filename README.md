@@ -25,3 +25,21 @@ https://drive.google.com/file/d/19-th6yBiPaT-iXFUHq--tbQz0s0ZGlUJ/view?usp=shari
 
 you can refer the file at the link given above , this is the ipynb file you can run it at Jupyter notebook, google colab or Visual Studio after downloading extension 
 or any other platform in which you are comfortable.
+
+## Installation
+
+🛠️ Requirements
+
+Python 3.6+
+PyTorch 1.1+
+Windows (Operating System)
+Updated libraries like Pandas, Numpy, Seaborn, Matplotlib, Scipy and Sklearn etc..
+
+## Setup
+
+Install PyTorch :-
+$ pip3 install torch==1.1.0 torchvision==0.3.0
+Install Library:-
+By Command 
+pip install library name
+
