@@ -4,6 +4,10 @@ This repository represents machine learning technique to identify market changes
 With the help of this project we can detect the Investment Predictions process and can automate it using machine learning and deep learning.
 
 
+## Problem Statment
+
+The area Stock market is something which is with lots of ups and downs. It can change in no time. Therefore we can use machine learning technique and deep learning neural networks to identify market changes earlier than possible with traditional investment models. Using machine Learning models we can automate the investment predictions process.
+
  ## Description
 
 This implemantation is based on Machine learning and Deep learning techniques.
