@@ -31,15 +31,37 @@ or any other platform in which you are comfortable.
 🛠️ Requirements
 
 Python 3.6+
+
 PyTorch 1.1+
+
 Windows (Operating System)
+
 Updated libraries like Pandas, Numpy, Seaborn, Matplotlib, Scipy and Sklearn etc..
 
 ## Setup
 
 Install PyTorch :-
+
 $ pip3 install torch==1.1.0 torchvision==0.3.0
+
 Install Library:-
+
 By Command 
+
 pip install library name
 
+For updating --
+
+conda update library name
+
+## Contributor 
+
+Ravikant
+
+You can contact me via --
+
+email id:  ravikant3217@gmail.com
+
+Or via Linkedin, you can follow me or message me by clicking on my profile given below for any doubt or any suggestion-- 
+
+linkedin.com/in/ravikant-yadav-9242691ba
