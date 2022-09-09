@@ -66,6 +66,6 @@ You can contact me via --
 
 email id:  ravikant3217@gmail.com
 
-Or via Linkedin, you can follow me or message me by clicking on my profile given below for any doubt or any suggestion-- 
+Or via Linkedin, you can follow me or dm me directly by clicking on my profile given below for any doubt or any suggestion-- 
 
 https://www.linkedin.com/in/ravikant-yadav-9242691ba
